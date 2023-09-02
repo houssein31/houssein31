@@ -43,5 +43,5 @@
 <a href="#"><img src="https://img.shields.io/badge/Docker%20-%20%232496ED?logo=docker&logoColor=white" height="25"></a>
 <!-- <a href="#"><img src="https://img.shields.io/badge/Kubernetes%20-%20%23326CE5?logo=kubernetes&logoColor=white" height="25"></a>
 <!-- <a href="#"><img src="https://img.shields.io/badge/Jenkins%20-%20%23D24939?logo=jenkins&logoColor=white" height="25"></a> -->
-   -->
+
 </p>
